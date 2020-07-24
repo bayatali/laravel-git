@@ -362,3 +362,5 @@ Route::get('/');
 //    echo "holo to admin page";
 //
 //})->middleware('isAdmin:مدیر');
+
+//یک تغییر 
